@@ -77,18 +77,13 @@
 - 如果您位于国外，和内地网络通信速度较慢，建议使用本存储库进行签出。
 
 ## 教材捐献
-如果这个项目帮助您免费获取教育资源，请考虑支持我们推广开放教育的努力！您的捐献将帮助我们维护和扩展这个资源库。
+如果这个项目帮助您免费获取教育资源，请考虑支持原作者推广开放教育的努力！您的捐献将帮助原作者维护和扩展这个资源库。
 
-加入我们的 Telegram 社区，获取最新动态并分享您的想法：https://t.me/+1V6WjEq8WEM4MDM1
+加入原作者的 Telegram 社区，获取最新动态并分享您的想法：https://t.me/+1V6WjEq8WEM4MDM1
+（如果你想在这个fork捐献，请创建issues并上传pdf，我会尽快审核。）
+## 支持原作者
 
-## Star History
-
-[![Star History](https://api.star-history.com/svg?repos=TapXWorld/ChinaTextbook&type=Date)](https://star-history.com/#TapXWorld/ChinaTextbook&Date)
-
-
-## 支持我
-
-如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
+（这个fork是我自己自行更新）如果您觉得这个项目对您有帮助，您可以扫描以下二维码对原作者进行捐赠：
 <p align="left">
   <img src=".cache/support-alipay.png" width="20%">
 </p>
